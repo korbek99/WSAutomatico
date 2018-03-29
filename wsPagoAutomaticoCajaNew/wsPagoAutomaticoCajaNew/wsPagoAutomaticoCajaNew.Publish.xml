@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\jbustosh\Desktop\WSPagoAutomatico22-12-2016" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="12/19/2016 16:25:41" />
+    <file relUrl="bin/CoreBaned.dll" publishTime="11/04/2016 12:25:10" />
+    <file relUrl="bin/DocumentFormat.OpenXml.dll" publishTime="07/28/2014 10:20:17" />
+    <file relUrl="bin/Services.dll" publishTime="01/25/2016 17:28:18" />
+    <file relUrl="bin/CoreBaned.xml" publishTime="12/15/2016 19:53:17" />
+    <file relUrl="bin/wsPagoAutomaticoCajaNew.dll" publishTime="12/22/2016 16:04:16" />
+    <file relUrl="bin/BanedNetBL.dll" publishTime="11/04/2016 12:25:11" />
+    <file relUrl="bin/Entidades.dll" publishTime="10/01/2014 09:59:10" />
+    <file relUrl="bin/wsPagoAutomaticoCajaNew.pdb" publishTime="12/22/2016 16:04:16" />
+    <file relUrl="ServicePagoAuto.asmx" publishTime="12/15/2016 16:32:22" />
+    <file relUrl="bin/BANED.NET.dll" publishTime="11/04/2016 12:25:14" />
+    <file relUrl="bin/BanedDBF.dll" publishTime="11/04/2016 12:25:10" />
+    <file relUrl="bin/BaseDatos.dll" publishTime="09/16/2016 09:28:44" />
+    <file relUrl="bin/ICSharpCode.SharpZipLib.dll" publishTime="07/08/2009 12:32:08" />
+    <file relUrl="bin/OracleDB.dll" publishTime="07/06/2016 12:07:47" />
+  </publishProfile>
+</publishData>

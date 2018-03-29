@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="ServicePagoAuto.asmx.cs" Class="wsPagoAutomaticoCajaNew.Service1" %>

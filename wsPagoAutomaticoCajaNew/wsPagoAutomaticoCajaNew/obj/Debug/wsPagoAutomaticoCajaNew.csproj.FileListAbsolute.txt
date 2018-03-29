@@ -1,0 +1,47 @@
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\wsPagoAutomaticoCajaNew.dll
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\wsPagoAutomaticoCajaNew.pdb
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\BaseDatos.dll
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\Services.dll
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\BanedNetBL.dll
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\DocumentFormat.OpenXml.dll
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\CoreBaned.dll
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\ICSharpCode.SharpZipLib.dll
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\OracleDB.dll
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\BanedDBF.dll
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\Entidades.dll
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\CoreBaned.xml
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\obj\Debug\wsPagoAutomaticoCajaNew.dll
+c:\users\jbustosh\documents\visual studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\obj\Debug\wsPagoAutomaticoCajaNew.pdb
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\wsPagoAutomaticoCajaNew.dll
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\wsPagoAutomaticoCajaNew.pdb
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\BANED.NET.dll
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\BaseDatos.dll
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\Services.dll
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\DocumentFormat.OpenXml.dll
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\BanedNetBL.dll
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\CoreBaned.dll
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\OracleDB.dll
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\BanedDBF.dll
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\Entidades.dll
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\CoreBaned.xml
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\obj\Debug\wsPagoAutomaticoCajaNew.dll
+C:\Users\laboratorio\Desktop\desarrollo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\obj\Debug\wsPagoAutomaticoCajaNew.pdb
+C:\Users\jbustosh\Documents\Visual Studio 2010\Projects\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\BANED.NET.dll
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\wsPagoAutomaticoCajaNew.dll
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\wsPagoAutomaticoCajaNew.pdb
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\BaseDatos.dll
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\Services.dll
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\BanedNetBL.dll
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\DocumentFormat.OpenXml.dll
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\CoreBaned.dll
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\OracleDB.dll
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\BanedDBF.dll
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\Entidades.dll
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\bin\CoreBaned.xml
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\obj\Debug\wsPagoAutomaticoCajaNew.dll
+C:\Users\laboratorio\Desktop\WSPagoAutomaticoTabNexo\wsPagoAutomaticoCajaNew\wsPagoAutomaticoCajaNew\obj\Debug\wsPagoAutomaticoCajaNew.pdb

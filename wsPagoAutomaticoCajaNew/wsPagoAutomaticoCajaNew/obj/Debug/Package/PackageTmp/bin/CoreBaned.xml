@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CoreBaned
+</name>
+</assembly>
+<members>
+<member name="P:CoreBaned.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CoreBaned.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CoreBaned.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:CoreBaned.Negocio.Saldomatico">
+	<summary>
+ Creado por Juan Carlos Cortes
+ Adaptado por Víctor Riquelme
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
